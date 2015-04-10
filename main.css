@@ -24,6 +24,24 @@ h2 {
 	padding: 10px;
 }
 
+p {
+	text-align: justify;
+}
+
+img {
+	margin: 0 auto;
+	display: block;
+	width: 100%;
+}
+
+a {
+	color: #e74c3c;
+}
+
+span {
+	font-style: italic;
+}
+
 #conteudo {
   width: 1140px auto;
   margin: 120px auto;
@@ -31,14 +49,20 @@ h2 {
 
 ul {
   list-style: none;
-  padding-left: 0;
+  padding: 0;
+  margin-right: 60px;
+  margin-left: 60px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 .figura-importante {
-	width: 33%;
+	width: 23%;
 	padding: 20px;
 	display: inline-block;
 	box-sizing: border-box;
+	background-color: white;
+	margin: 10px;
 }
 
 footer {
