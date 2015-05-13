@@ -1,9 +1,17 @@
-body { 
+
+ul {
+  list-style: none;
+}
+
+.card{ 
+	border: 1px solid red;
+}
+
+/*body { 
   margin:0;
   padding:0;
   background-color: #ecf0f1;
   font-family: opensans;
-
 }
 
 header {
@@ -47,14 +55,7 @@ span {
   margin: 120px auto;
 }
 
-ul {
-  list-style: none;
-  padding: 0;
-  margin-right: 60px;
-  margin-left: 60px;
-  margin-top: 30px;
-  margin-bottom: 30px;
-}
+
 
 .figura-importante {
 	width: 23%;
@@ -69,4 +70,4 @@ footer {
 	background-color: #1abc9c;
 	padding: 10px;
 	width: 100%;
-}
+}*/
